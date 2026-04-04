@@ -17,3 +17,6 @@ Dataset，TensorBoard工具
 
 ## c3_titorchvision
 *作用*: 下载内置数据集，并tensor化
+
+## c4_dataloader
+*作用*：按照 batch_size 读取数据
