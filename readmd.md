@@ -30,3 +30,7 @@ Dataset，TensorBoard工具
 
 ## c7_conv
 *作用*： 卷积层使用和定义
+
+
+## c8_others.py
+*作用*： 池化，激活，线性等其他层
