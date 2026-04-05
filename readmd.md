@@ -34,3 +34,6 @@ Dataset，TensorBoard工具
 
 ## c8_others.py
 *作用*： 池化，激活，线性等其他层
+
+## c9_sequential.py
+*作用*：使用 sequential 将各种层包装起来
