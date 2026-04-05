@@ -23,3 +23,7 @@ Dataset，TensorBoard工具
 
 ## c5_userdataloader
 *作用*： 按照 epoch,batch 读取数据
+
+## c6_nn_Module
+*作用*： 一个简单的 自定义 nn.Module 写法
+- 很重要的一点是知道forword 函数是被默认在 nn.Module 中继承的 call 函数所调用的。
