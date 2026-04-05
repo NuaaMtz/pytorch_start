@@ -111,7 +111,7 @@ class MyModule2(nn.Module):
         )
 
     def forward(self, input):
-        outpu=self.model1(input)
+        output=self.model1(input)
         return output
 
 

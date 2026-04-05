@@ -37,3 +37,6 @@ Dataset，TensorBoard工具
 
 ## c9_sequential.py
 *作用*：使用 sequential 将各种层包装起来
+
+## c10_loss
+*作用*：在一个 epoch 下，使用前向传播->计算损失->反向传播 流程
